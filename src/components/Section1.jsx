@@ -12,7 +12,7 @@ function Section1() {
         <button>Start Now</button>
       </div>
       <div className="bottom">
-        <img src="src\assets\images\Picture.png" alt="" />
+        <img src="../../public/images/Picture.png" alt="" />
       </div>
     </div>
   );

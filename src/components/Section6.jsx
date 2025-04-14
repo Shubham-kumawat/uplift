@@ -20,7 +20,7 @@ function Section6() {
             </span>
 
             <img
-              src="src/assets/icons/Vector (Stroke).png"
+              src="../../public/icons/Vector (Stroke).png"
               alt=""
               className="arrow-icon"
             />
@@ -34,7 +34,7 @@ function Section6() {
               dolor?
             </span>
             <img
-              src="src/assets/icons/Vector (Stroke).png"
+              src="../../public/icons/Vector (Stroke).png"
               alt=""
               className="arrow-icon"
             />
@@ -48,7 +48,7 @@ function Section6() {
               scelerisque etiam lorem?
             </span>
             <img
-              src="src/assets/icons/Vector (Stroke).png"
+              src="../../public/icons/Vector (Stroke).png"
               alt=""
               className="arrow-icon"
             />
@@ -62,7 +62,7 @@ function Section6() {
               faucibus?
             </span>
             <img
-              src="src/assets/icons/Vector (Stroke).png"
+              src="../../public/icons/Vector (Stroke).png"
               alt=""
               className="arrow-icon"
             />
@@ -75,7 +75,7 @@ function Section6() {
               Sagittis consectetur gravida nec turpis eros, id sit et, dictum?
             </span>
             <img
-              src="src/assets/icons/Vector (Stroke).png"
+              src="../../public/icons/Vector (Stroke).png"
               alt=""
               className="arrow-icon"
             />

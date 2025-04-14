@@ -156,20 +156,20 @@ function Footer() {
         </div>
         <div className="social-icons">
           <a href="https://youtube.com">
-            <img src="src\assets\icons\youtube.png" alt="" />
+            <img src="../../public/icons/youtube.png" alt="" />
           </a>
           <a href="https://twitter.com">
-            <img src="src\assets\icons\Twitter.png" alt="" />
+            <img src="../../public/icons/Twitter.png" alt="" />
           </a>
           <a href="https://facebook.com">
-            <img src="src\assets\icons\facebook.png" alt="" />
+            <img src="../../public/icons/facebook.png" alt="" />
           </a>
 
           <a href="https://instagram.com">
-            <img src="src\assets\icons\instagram.png" alt="" />
+            <img src="../../public/icons/instagram.png" alt="" />
           </a>
           <a href="https://linkedin.com">
-            <img src="src\assets\icons\linkedin.png" alt="" />
+            <img src="../../public/icons/linkedin.png" alt="" />
           </a>
         </div>
       </div>

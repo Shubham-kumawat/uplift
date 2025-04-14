@@ -13,13 +13,13 @@ function Section3() {
       </div>
       <div className="container">
         <button className="arroww left-arow">
-          <img src="src\assets\images\arrow-left-s-line.png" alt="" />
+          <img src="../../public/images/arrow-left-s-line.png" alt="" />
         </button>
         <div className="lower">
           <div className="card">
-            <img src="src\assets\images\Picture1.png" alt="" />
+            <img src="../../public/images/Picture1.png" alt="" />
             <div className="innerImage">
-              <img src="src\assets\images\User Thumb.png" alt="" />
+              <img src="../../public/images/User Thumb.png" alt="" />
               <p>
                 <strong>Flower Decorations</strong>
                 <br />
@@ -28,9 +28,9 @@ function Section3() {
             </div>
           </div>
           <div className="card">
-            <img src="src\assets\images\Picture2.png" alt="" />
+            <img src="../../public/images/Picture2.png" alt="" />
             <div className="innerImage">
-              <img src="src\assets\images\User Thumb2.png" alt="" />
+              <img src="../../public/images/User Thumb2.png" alt="" />
               <p>
                 <strong>Flower Decorations</strong>
                 <br />
@@ -39,9 +39,9 @@ function Section3() {
             </div>
           </div>
           <div className="card">
-            <img src="src\assets\images\Picture3.png" alt="" />
+            <img src="../../public/images/Picture3.png" alt="" />
             <div className="innerImage">
-              <img src="src\assets\images\User Thumb3.png" alt="" />
+              <img src="../../public/images/User Thumb3.png" alt="" />
               <p>
                 <strong>Splash</strong>
                 <br />
@@ -51,9 +51,9 @@ function Section3() {
           </div>
 
           <div className="card">
-            <img src="src\assets\images\Picture4.png" alt="" />
+            <img src="../../public/images/Picture4.png" alt="" />
             <div className="innerImage">
-              <img src="src\assets\images\User Thumb4.png" alt="" />
+              <img src="../../public/images/User Thumb4.png" alt="" />
               <p>
                 <strong>Colorful Face</strong>
                 <br />
@@ -63,7 +63,7 @@ function Section3() {
           </div>
         </div>
         <button className="arroww right-arow">
-          <img src="src\assets\images\arrow-right-s-line.png" alt="" />
+          <img src="../../public/images/arrow-right-s-line.png" alt="" />
         </button>
       </div>
     </div>
