@@ -1,4 +1,4 @@
-* {
+ * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -7,8 +7,8 @@
 
 .section3 {
   width: 100%;
- padding: 1.2vw;
- margin-top: 50vw;
+  padding: 1.2vw;
+  margin-top: 50vw;
 }
 
 .upper {
@@ -16,16 +16,16 @@
 }
 
 .upper h1 {
-  font-size: 52px;
+  font-size: 3.25rem;
   color: #b620e0;
 }
 
 .upper p {
-  font-size: 15px;
-  max-width: 650px;
-  line-height: 1.9;
+  font-size: 0.9375rem; 
+  max-width: 40.625rem; 
+    line-height: 1.9;
   word-wrap: break-word;
-  margin: 20px auto;
+  margin: 1.25rem auto; 
 }
 
 .container {
@@ -37,97 +37,60 @@
 
 .arroww {
   position: absolute;
-  padding: 8px;
+  padding: 0.5rem; 
   background-color: white;
   border: none;
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 2.5rem; 
+  height: 2.5rem;
   cursor: pointer;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
+  box-shadow: 0 0 0.625rem rgba(0, 0, 0, 0.2); }
 
 .left-arow {
-  left: 100px;
+  left: 6.25vw; 
 }
 
 .right-arow {
-  right: 100px;
+  right: 6.25vw;
 }
 
 .lower {
   display: flex;
   justify-content: center;
-  gap: 30px;
-  margin-top: 30px;
+  gap: 1.875rem; 
+  margin-top: 1.875rem;
   position: relative;
 }
 
 .card {
-  width: 250px;
+  width: 15.625rem; 
   overflow: hidden;
-  border-radius: 10px;
-  border: 1px solid rgb(236, 233, 233);
+  border-radius: 0.625rem; 
+  border: 0.0625rem solid rgb(236, 233, 233); 
 }
 
 .innerImage {
   display: flex;
-  gap: 10px;
-
-  margin: 10px 10px;
+  gap: 0.625rem; 
+  margin: 0.625rem 0.625rem;
 }
 
-.innerImage p {
-  font-size: 12px;
-}
-
+.innerImage p,
 .innerImage span {
-  font-size: 12px;
+  font-size: 0.75rem; 
 }
-/* @media (max-width: 768px) {
-  .upper h1 {
-    font-size: 2rem;
-  }
 
-  .upper p {
-    font-size: 0.95rem;
-    padding: 0 1em;
-  }
 
-  .left-arow,
-  .right-arow {
-    width: 35px;
-    height: 35px;
-    padding: 6px;
-  }
-
-  .lower {
-    flex-wrap: wrap;
-    gap: 15px;
-  }
-
-  .card {
-    width: 200px;
-  }
-  .innerImage img{
-width: 100%;    
-  }
-    .innerImage p,
-  .innerImage span {
-    font-size: 1rem;
-    text-align: start;
-    margin: 1em;
-  }
-} */
 
 @media (max-width: 480px) {
 
   .section3{
-    margin-top: 130vw ;
+    margin-top: 135vw ;
+   
+    padding: 0 1em;
   }
   .upper{
     text-align: center;
-    margin-left: 5vw;
   }
   .upper h1 {
     font-size: 1.5rem;
@@ -137,10 +100,6 @@ width: 100%;
     font-size: 0.9rem;
   
   }
-
-  /* .container {
-    flex-direction: column;
-  } */
 
   .left-arow,
   .right-arow {
@@ -154,11 +113,7 @@ width: 100%;
 
   }
 
-  .card {
-    
-    width: 90%;
-    max-width: 300px;
-  }
+
   .card img{
     width: 80vw;
   }
@@ -173,4 +128,5 @@ width: 100%;
    .innerImage img{
 width: 15vw;;    
   }
-}
+} 
+
