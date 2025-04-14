@@ -113,6 +113,9 @@
 } */
 
 @media (max-width: 480px) {
+  .section4{
+    margin-top: 10vw;
+  }
   .section4 h1 {
     font-size: 1.5rem;
   }

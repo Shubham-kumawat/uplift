@@ -105,6 +105,11 @@ left: 70vw;
 
 
 @media (max-width: 480px) {
+  
+  .section2{
+    margin: 20vw 0;
+
+  }
   .topp h1 {
     font-size: 1.5rem;
   }
@@ -135,10 +140,10 @@ left: 70vw;
 
 .mobile{
   position: absolute;
-  width: 60vw;
-  height: 120vw;
+  width: 70vw;
+  height: 140vw;
   text-align: center;
-left: 7vw;
+left: -5vw;
 }
 .mobile img{
   width: 100%;
@@ -149,10 +154,10 @@ left: 7vw;
 }
 .content{
   position: absolute;
-  width: 58vw;
-  height: 50vw;
-  top:80vw;
-  left: 0;
+  width: 70vw;
+  height: 67vw;
+  top:89vw;
+  left: -11vw;
   z-index: 1;
 }
 .content img{
@@ -160,11 +165,11 @@ left: 7vw;
   
 }
 .splash{
-  width: 44vw;
-  height: 15vw;
+  width: 50vw;
+  height: 20vw;
   position: absolute;
-  top: 63vw;
-  left:0 ;
+  top: 65vw;
+  left:-11vw ;
 }
 .splash img{
   width: 100%;
