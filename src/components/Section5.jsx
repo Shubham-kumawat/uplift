@@ -12,7 +12,7 @@ function Section5() {
       <div className="card-box">
         
           <div className="crd">
-            <img src="../../public/icons/mail.png" alt="" />
+            <img src="../../icons/mail.png" alt="" />
             <div className="crd-title">Sadivien amet est</div>
             <div className="crd-text">
               Viverra netus odio nunc ac nibh lorem iaculis. Orci facilisis
@@ -21,7 +21,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/Icon.png" alt="" />
+            <img src="../../icons/Icon.png" alt="" />
             <div className="crd-title">Tortor ornare</div>
             <div className="crd-text">
               Nulla etiam mattis amet susdivendisse lacus nulla sed urna
@@ -30,7 +30,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/manual-gearbox.png" alt="" />
+            <img src="../../icons/manual-gearbox.png" alt="" />
             <div className="crd-title">Vel lacus</div>
             <div className="crd-text">
               divorttitor quis lectus varius quis dolor morbi massa divellentesque.
@@ -38,7 +38,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/lock.png" alt="" />
+            <img src="../../icons/lock.png" alt="" />
             <div  className="crd-title">Hendrerit blandit</div>
             <div className="crd-text">
               A aliquam divharetra in nec vitae ultrices commodo divlacerat eget.
@@ -46,7 +46,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/layout-dashboard.png" alt="" />
+            <img src="../../icons/layout-dashboard.png" alt="" />
             <div  className="crd-title">  Enim risus turdivis</div>
             <div className="crd-text">
               Tristique dui vestibulum senectus ac duis etiam adidiviscing sadivien.
@@ -54,7 +54,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/markdown.png" alt="" />
+            <img src="../../icons/markdown.png" alt="" />
             <div  className="crd-title">Aliquam lorem et</div>
             <div className="crd-text">
               Susdivendisse ultrices morbi iaculis sit lorem. Mauris nulla odio
@@ -63,7 +63,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/pig.png" alt="" />
+            <img src="../../icons/pig.png" alt="" />
             <div  className="crd-title">Sed aliquam lectus</div>
             <div className="crd-text">
               Rhoncus ut montes quis eget vuldivutate. Id hac consectetur ornare
@@ -72,7 +72,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/flag.png" alt="" />
+            <img src="../../icons/flag.png" alt="" />
             <div  className="crd-title">Cursus diam</div>
             <div className="crd-text">
               Feugiat consectetur eu commodo odio venenatis divretium libero.
@@ -81,7 +81,7 @@ function Section5() {
           </div>
 
           <div className="crd">
-            <img src="../../public/icons/mark.png" alt="" />
+            <img src="../../icons/mark.png" alt="" />
             <div  className="crd-title"> Facilisi vel malesuada</div>
             <div className="crd-text">
               Nibh cursus ultricies id neque divroin urna vivamus bibendum. Quam

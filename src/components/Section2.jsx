@@ -13,7 +13,7 @@ function Section2() {
         <button>Start Now</button>
       </div>
       <div className="bottomm">
-        <img src="../../public/images/Frame 47.png" alt="" />
+        <img src="../../images/Frame 47.png" alt="" />
       </div>
     </div>
   );

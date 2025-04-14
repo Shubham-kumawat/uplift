@@ -6,7 +6,7 @@ function Section4() {
       <h1>What other users say</h1>
       <div className="slider-container">
         <button className="arrow left-arrow">
-          <img src="../../public/images/arrow-left-s-line.png" alt="" />
+          <img src="../../images/arrow-left-s-line.png" alt="" />
         </button>
         <div className="box">
           <h3>Placerat feugiat senectus</h3>
@@ -16,7 +16,7 @@ function Section4() {
             commodo ultrices aenean ultricies.
           </p>
           <div className="detail">
-            <img src="../../public/images/User Thumb.png" alt="" />
+            <img src="../../images/User Thumb.png" alt="" />
             <p>
               <strong>Jane Doe</strong>
               <br />
@@ -25,7 +25,7 @@ function Section4() {
           </div>
         </div>
         <button className="arrow right-arrow">
-          <img src="../../public/images/arrow-right-s-line.png" alt="" />
+          <img src="../../images/arrow-right-s-line.png" alt="" />
         </button>
       </div>
     </div>
