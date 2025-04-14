@@ -56,7 +56,7 @@
 .bottom img{
   width: 100%;
   max-width: 100%;
-    padding: 0 1em;
+  padding: 0 1em;
     }
 
 
@@ -90,9 +90,9 @@
   .bottom img{
   width: 100%;
   max-width: 100%;
-  height: 50vw;
+  height: 60vw;
     padding: 0 1em;
-     object-fit: cover;
+    
     }
 }
 
@@ -127,8 +127,7 @@ padding: 0.65em 1em;
   .bottom img {
     width: 100%; 
     max-width: 100%; 
-    height: 40vw;
-    object-fit: cover;
+   height: fit-content;
      padding: 0 1em;
   }
 }

@@ -108,6 +108,15 @@
   .card {
     width: 200px;
   }
+  .innerImage img{
+width: 100%;    
+  }
+    .innerImage p,
+  .innerImage span {
+    font-size: 1rem;
+    text-align: start;
+    margin: 1em;
+  }
 }
 
 @media (max-width: 480px) {
@@ -140,14 +149,14 @@
     max-width: 300px;
   }
 
-  .innerImage {
-    flex-direction: column;
-    gap: 5px;
-  }
 
   .innerImage p,
   .innerImage span {
     font-size: 0.8rem;
-    text-align: center;
+    text-align: start;
+    margin: 1em;
+  }
+   .innerImage img{
+width: 15vw;;    
   }
 }
