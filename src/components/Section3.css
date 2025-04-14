@@ -85,7 +85,7 @@
 }
 @media (max-width: 768px) {
   .upper h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .upper p {
@@ -112,7 +112,7 @@
 
 @media (max-width: 480px) {
   .upper h1 {
-    font-size: 2rem;
+    font-size: 1.5;
   }
 
   .upper p {
