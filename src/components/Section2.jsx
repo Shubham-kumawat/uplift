@@ -13,7 +13,11 @@ function Section2() {
         <button>Start Now</button>
       </div>
       <div className="bottomm">
-        <img src="../../images/Frame 47.png" alt="" />
+        <div className="desktop"><img src="../../images/Desktop.png" alt="" /></div>
+     <div className="content"> <img src="../../images/Content Box.png" alt="" /></div>
+      <div className="mobile"> <img src="../../images/Mobile-App-Placeholder-1.png" alt="" /></div>
+     
+     <div className="splash"> <img src="p../../images/Splash.png" alt="" /></div>
       </div>
     </div>
   );

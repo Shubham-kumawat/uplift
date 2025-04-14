@@ -60,7 +60,7 @@
     }
 
 
-
+/* 
 @media (max-width: 768px) {
   .top h1 {
     font-size: 3rem;
@@ -94,7 +94,7 @@
     padding: 0 1em;
     
     }
-}
+} */
 
 
 @media (max-width: 480px) {
@@ -127,7 +127,6 @@ padding: 0.65em 1em;
   .bottom img {
     width: 100%; 
     max-width: 100%; 
-   height: fit-content;
      padding: 0 1em;
   }
 }

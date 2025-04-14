@@ -54,7 +54,7 @@
 }
 
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .crd {
     width: 45%; 
   }
@@ -70,7 +70,7 @@
   .crd-text {
     font-size: 13.5px;
   }
-}
+} */
 
 @media screen and (max-width: 480px) {
   .section5 {

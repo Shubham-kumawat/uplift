@@ -38,29 +38,71 @@
 }
 
 .bottomm {
-  margin-top: 60px;
+ margin-top: 2em;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position:relative ;
+  padding: 0 10vw;
+  background-color: red;
+
+  
+}
+
+.desktop{
+  width: 70vw;
+  height:40vw;
+
   text-align: center;
+top:0;
+left:10vw;
+  position: absolute;
+
 }
-@media (max-width: 768px) {
-  .topp h1 {
-    font-size: 2rem;
-  }
-
-  .topp p {
-    font-size: 1rem;
-    padding: 0 2em;
-  }
-
-  .topp button {
-    width: 100%;
-    font-size: 1.2rem;
-    padding: 12px 0;
-  }
-
-  .bottomm {
-    margin-top: 3em;
-  }
+.desktop img{
+  width: 100%;
+  height: 100%;
+ 
 }
+.content{
+  width: 19vw;
+ position: absolute;
+top:28vw;
+ left: 2vw;
+
+}
+.content img{
+  width: 100%;
+  height: 100%;
+}
+
+.mobile {
+  width: 22vw;
+  height: 40vw;
+  
+ position: absolute;
+top:7vw;
+left: 70vw; 
+ 
+
+ }
+ .mobile img{
+  width: 100%;
+  height: 100%;
+ }
+.splash{
+  width: 14vw;
+ position: absolute;
+ top: 22vw;
+ left: 2vw;
+}
+.splash img{
+  width: 100%;
+  height: 100%;
+}
+
+
 
 @media (max-width: 480px) {
   .topp h1 {
@@ -78,11 +120,54 @@
   }
 
   .bottomm {
-    margin-top: 2.5em;
+
+  width: 100%;
+  height: 100%;
+  margin: 2em;
+  display: inline-block;
+  position: relative;
+
   }
-   .bottomm img {
-    width: 100%;
-    max-width: 100%;
-  }
+.desktop{
+  display: none;
 }
 
+
+.mobile{
+  position: absolute;
+  width: 60vw;
+  height: 120vw;
+  text-align: center;
+left: 7vw;
+}
+.mobile img{
+  width: 100%;
+  height: 100%;
+
+  
+
+}
+.content{
+  position: absolute;
+  width: 58vw;
+  height: 50vw;
+  top:80vw;
+  left: 0;
+  z-index: 1;
+}
+.content img{
+  width: 100%;
+  
+}
+.splash{
+  width: 44vw;
+  height: 15vw;
+  position: absolute;
+  top: 63vw;
+  left:0 ;
+}
+.splash img{
+  width: 100%;
+ 
+}
+}

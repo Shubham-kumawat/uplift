@@ -78,7 +78,7 @@
     font-size: 15px;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .section4 h1 {
     font-size:2rem;
   }
@@ -110,7 +110,7 @@
   .detail p {
     font-size: 13px;
   }
-}
+} */
 
 @media (max-width: 480px) {
   .section4 h1 {

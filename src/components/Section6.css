@@ -60,7 +60,7 @@ background-color: white;
 .arrow-icon{
     height: 10px;
 }
-
+/* 
 @media (max-width: 768px) {
   .section6 h2 {
     font-size: 2rem;
@@ -79,7 +79,7 @@ background-color: white;
     align-items: flex-start;
     gap: 10px;
   }
-}
+} */
 
 @media (max-width: 480px) {
   .section6 h2 {
@@ -97,7 +97,7 @@ background-color: white;
   .faq-question {
     padding: 16px;
     height: auto;
-    flex-direction: column;
+    flex-direction: row;
     gap: 10px;
   }
 
@@ -105,7 +105,14 @@ background-color: white;
     font-size: 13px;
   }
 
+
+
   .arrow-icon {
     height: 8px;
+  }
+
+  .faq-item img{
+    width: 2vw;
+    height: 1vw;
   }
 }
