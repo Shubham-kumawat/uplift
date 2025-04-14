@@ -107,7 +107,7 @@ left: 70vw;
 @media (max-width: 480px) {
   
   .section2{
-    margin: 20vw 0;
+    margin: 10vw 0;
 
   }
   .topp h1 {
@@ -143,7 +143,7 @@ left: 70vw;
   width: 70vw;
   height: 140vw;
   text-align: center;
-left: -5vw;
+left: 2vw;
 }
 .mobile img{
   width: 100%;
