@@ -87,6 +87,12 @@
     margin-top: 2em;
     padding: 0 1em;
   }
+  .bottom img{
+  width: 100%;
+  max-width: 100%;
+  height: 50vw;
+    padding: 0 1em;
+    }
 }
 
 
@@ -120,6 +126,7 @@ padding: 0.65em 1em;
   .bottom img {
     width: 100%; 
     max-width: 100%; 
+    height: ;
   }
 }
 
