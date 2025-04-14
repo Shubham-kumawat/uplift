@@ -83,7 +83,7 @@ background-color: white;
 
 @media (max-width: 480px) {
   .section6 h2 {
-    font-size: 1.5;
+    font-size: 1.5rem;
   }
 
   .section6 p {
