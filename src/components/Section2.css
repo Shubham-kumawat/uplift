@@ -43,7 +43,7 @@
 }
 @media (max-width: 768px) {
   .topp h1 {
-    font-size: 3.5rem;
+    font-size: 2rem;
   }
 
   .topp p {
@@ -64,7 +64,7 @@
 
 @media (max-width: 480px) {
   .topp h1 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 
   .topp p {

@@ -63,7 +63,7 @@
 
 @media (max-width: 768px) {
   .top h1 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .top p {
@@ -93,7 +93,7 @@
 @media (max-width: 480px) {
   
   .top h1 {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 
   .top p {
