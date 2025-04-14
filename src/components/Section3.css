@@ -148,13 +148,14 @@ width: 100%;
   }
 
   .lower {
-
+    
     margin-top: 1em;
-    margin-left: 180vw;
+    margin-left: 190vw;
 
   }
 
   .card {
+    
     width: 90%;
     max-width: 300px;
   }
