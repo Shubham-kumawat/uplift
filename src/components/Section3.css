@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.section3 {
+  width: 100%;
+ padding: 1.2vw;
+}
+
+.upper {
+  text-align: center;
+}
+
+.upper h1 {
+  font-size: 52px;
+  color: #b620e0;
+}
+
+.upper p {
+  font-size: 15px;
+  max-width: 650px;
+  line-height: 1.9;
+  word-wrap: break-word;
+  margin: 20px auto;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.arroww {
+  position: absolute;
+  padding: 8px;
+  background-color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.left-arow {
+  left: 100px;
+}
+
+.right-arow {
+  right: 100px;
+}
+
+.lower {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+  position: relative;
+}
+
+.card {
+  width: 250px;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 1px solid rgb(236, 233, 233);
+}
+
+.innerImage {
+  display: flex;
+  gap: 10px;
+
+  margin: 10px 10px;
+}
+
+.innerImage p {
+  font-size: 12px;
+}
+
+.innerImage span {
+  font-size: 12px;
+}
+@media (max-width: 768px) {
+  .upper h1 {
+    font-size: 2.5rem;
+  }
+
+  .upper p {
+    font-size: 0.95rem;
+    padding: 0 1em;
+  }
+
+  .left-arow,
+  .right-arow {
+    width: 35px;
+    height: 35px;
+    padding: 6px;
+  }
+
+  .lower {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .card {
+    width: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .upper h1 {
+    font-size: 2rem;
+  }
+
+  .upper p {
+    font-size: 0.9rem;
+    padding: 0 0.8em;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+
+  .left-arow,
+  .right-arow {
+    display: none; 
+  }
+
+  .lower {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2em;
+  }
+
+  .card {
+    width: 90%;
+    max-width: 300px;
+  }
+
+  .innerImage {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .innerImage p,
+  .innerImage span {
+    font-size: 0.8rem;
+    text-align: center;
+  }
+}
