@@ -1,31 +1,30 @@
+
 import "./Navbar.css";
+import React, { useState } from 'react'
 
-function Navbar() {
+
+const Navbar = () => {
+  const links = ["Explore", "Solutions", "About", "Blog" ,"Log In"]
+
+  const [showMenu, setShowMenu] = useState(false)
+
+  const toggleMenu = (show) => {
+    setShowMenu(show);
+  }
+
   return (
-    <div className="navbar">
-      <div className=" left">
-        <h3>
-          break<span className="span">io</span>
-        </h3>
-      </div>
-
-      <input type="checkbox" id="menu-toggle" className="menu-toggle" />
-      <label htmlFor="menu-toggle" className="hamburger">
-        <span></span>
-        <span></span>
-        <span></span>
-        
-      </label>
-      <div className="right">
-        <a href="">Explore</a>
-        <a href="">Solutions</a>
-        <a href="">About</a>
-        <a href="">Blog</a>
-        <a href="">Login</a>
-        <button>Start Now</button>
+    <div className='nav'>
+      <h1 className='heading'>break<span className="span">io</span></h1>
+      <div onClick={() => setShowMenu(true)} className='menu'><img src="/icons/Buttons Group.png" alt="" /></div>
+      <div className='links' style={{ display: showMenu ? "flex" : "none" }} >
+        {links.map((link, index) => {
+          return <a key={index} href="">{link}</a>
+        })}
+        <button onClick={() => setShowMenu(false)} className='x'>X</button>
+        <button className='start' >Start Now</button>
       </div>
     </div>
-  );
+  )
 }
 
-export default Navbar;
+export default Navbar
