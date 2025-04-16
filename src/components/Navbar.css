@@ -56,7 +56,6 @@
 
  @media (max-width: 600px) { 
   .navbar {
-    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
