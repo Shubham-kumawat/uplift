@@ -54,7 +54,7 @@
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   .section5 {
     padding: 4em 2em;
   }

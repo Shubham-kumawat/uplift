@@ -92,10 +92,10 @@
 
 }
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
 
   .section3{
-    margin-top:28em ;
+    margin-top:17em ;
    }
   .upper{
     text-align: center;
@@ -134,17 +134,17 @@
     margin: 1em;
   }
    .innerImage img{
-width: 15vw;;    
+width: 15vw;    
   }
 .card .postImg{
-  width: 60vw;
+  width: 70vw;
 }
 
 .card span{
-  padding: 0.3em 0.6em;
+  padding: 0.2em 0.6em;
   position: absolute;
   border: 2px solid black;
-  width: 18vw;
+  width: 22vw;
   height: 6vw;
   background: white;
   border: none;

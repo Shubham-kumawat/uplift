@@ -80,9 +80,9 @@
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .section4{
-    margin-top: 1vw;
+    margin-top: 3vw;
   }
   .section4 h1 {
     font-size: 2.5rem;

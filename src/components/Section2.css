@@ -103,7 +103,7 @@ left: 70vw;
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   
   .section2{
     margin-top: 2vw ;
@@ -142,7 +142,7 @@ left: 70vw;
   width: 70vw;
   height: 120vw;
   top: 0;
-  left: 6vw;
+  left: 3vw;
 }
 .content{
   position: absolute;
