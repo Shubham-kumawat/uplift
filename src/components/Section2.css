@@ -142,14 +142,14 @@ left: 70vw;
   width: 70vw;
   height: 120vw;
   top: 0;
-  left: 3vw;
+  left:0;
 }
 .content{
   position: absolute;
   width: 75vw;
   height: 60vw;
   top:78vw;
-  left: -6vw;
+  left: -10vw;
   z-index: 1;
 }
 
