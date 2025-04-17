@@ -54,7 +54,7 @@
 
 
 
- @media (max-width: 600px) { 
+ @media (max-width: 480px) { 
   .navbar {
     top: 0;
     left: 0;
@@ -118,7 +118,7 @@
   .links .start {
     display: block;
     padding: 1vw 1vw;
-    font-size: 1.3em;
+    font-size: 1em;
     width: 25vw;
     height: 8vw;
     text-transform: capitalize;

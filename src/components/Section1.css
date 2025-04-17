@@ -72,7 +72,7 @@
   }
 
   .top input{
-    width: 50vw;
+    width: 55vw;
     height: 8vw;
 padding: 0.65em 2em;
     margin:0.65em;
@@ -80,8 +80,8 @@ padding: 0.65em 2em;
   }
 
   .top button {
-    width: 20vw;
-    height: 8vw;
+    width: 30vw;
+    height: 10vw;
     padding: 0 0.65em;
     
     margin: 0.65em;;
