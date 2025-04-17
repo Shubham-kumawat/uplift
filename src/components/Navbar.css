@@ -67,7 +67,7 @@
   }
 
   .heading {
-    font-size: 2em;
+    font-size: 3.25em;
   }
 
   .heading .span {
@@ -79,6 +79,7 @@
   }
   .menu img {
     width: 7vw;
+    height: 8vw;
   }
 
   .links {
@@ -86,12 +87,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    background-color: #b620e0;
     gap: 6vw;
     box-shadow: 0 0 10px#b620e0;
     position: absolute;
     top: 0;
     right: 0;
-    padding: 15vw 5vw;
+    padding: 11vw 5vw;
     width: 50vw;
     height: 100vh;
     z-index: 4;
@@ -110,18 +112,19 @@
     top: 3vw;
     right: 4vw;
     border: none;
-    font-size: 1.2em;
+    background-color: #b620e0;
+    font-size: 1.5em;
   }
   .links .start {
     display: block;
-    padding: 2vw 2vw;
-    font-size: 1.4em;
-    width: 28vw;
-    height: 10vw;
+    padding: 1vw 1vw;
+    font-size: 1.3em;
+    width: 25vw;
+    height: 8vw;
     text-transform: capitalize;
-    background-color: #b620e0;
+    background-color: #4617d3;
     border: none;
-    border: 2px solid #fff;
+    border: 1px solid  #b620e0 ;
     border-radius: 20vw;
   cursor: pointer;
   }

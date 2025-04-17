@@ -4,11 +4,11 @@ import "./Section5.css";
 function Section5() {
   return (<div className="section5">
       <h1>Your favourite tools</h1>
-      <div>
+      <p>
         In risus nec molestie at in divulvinar tellus. At integer id condimentum
         gravida nisi nisl. Sem vitae <br /> divorttitor arcu congue sem erat et
         sit faucibus. Sollicitudin elit gravida tellus mattis divorttitor.
-      </div>
+      </p>
       <div className="card-box">
         
           <div className="crd">

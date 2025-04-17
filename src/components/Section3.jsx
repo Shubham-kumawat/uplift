@@ -17,7 +17,7 @@ function Section3() {
         </button>
         <div className="lower">
           <div className="card">
-            <img src="../../images/Picture1.png" alt="" />
+            <img className="postImg"       src="../../images/Picture1.png" alt="" />
             <div className="innerImage">
               <img src="../../images/User Thumb.png" alt="" />
               <p>
@@ -25,10 +25,11 @@ function Section3() {
                 <br />
                 by Melvina Spring
               </p>
+              <span >Promoted</span>
             </div>
           </div>
           <div className="card">
-            <img src="../../images/Picture2.png" alt="" />
+            <img className="postImg"  src="../../images/Picture2.png" alt="" />
             <div className="innerImage">
               <img src="../../images/User Thumb2.png" alt="" />
               <p>
@@ -39,7 +40,7 @@ function Section3() {
             </div>
           </div>
           <div className="card">
-            <img src="../../images/Picture3.png" alt="" />
+            <img className="postImg"  src="../../images/Picture3.png" alt="" />
             <div className="innerImage">
               <img src="../../images/User Thumb3.png" alt="" />
               <p>
@@ -50,8 +51,8 @@ function Section3() {
             </div>
           </div>
 
-          <div className="card">
-            <img src="../../images/Picture4.png" alt="" />
+          <div  className="card">
+            <img className="postImg"  src="../../images/Picture4.png" alt="" />
             <div className="innerImage">
               <img src="../../images/User Thumb4.png" alt="" />
               <p>
@@ -63,7 +64,7 @@ function Section3() {
           </div>
         </div>
         <button className="arroww right-arow">
-          <img src="../../images/arrow-right-s-line.png" alt="" />
+          <img className="postImg"  src="../../images/arrow-right-s-line.png" alt="" />
         </button>
       </div>
     </div>
