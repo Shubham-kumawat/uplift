@@ -67,7 +67,7 @@
   }
 
   .heading {
-    font-size: 3em;
+    font-size: 2.5em;
   }
 
   .heading .span {
@@ -87,9 +87,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    background-color: #b620e0;
+    background-color: #ca46ee;
     gap: 6vw;
-    box-shadow: 0 0 10px#b620e0;
+    /* box-shadow: 0 0 10px#b620e0; */
     position: absolute;
     top: 0;
     right: 0;
