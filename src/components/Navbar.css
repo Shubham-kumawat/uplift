@@ -122,9 +122,9 @@
     width: 25vw;
     height: 8vw;
     text-transform: capitalize;
-    background-color: #b620e0;
+    background-color:#b620e0;
     border: none;
-    border: 1px solid  #7c54f4 ;
+    border: 1px solid  transparent ;
     border-radius: 20vw;
   cursor: pointer;
   }
