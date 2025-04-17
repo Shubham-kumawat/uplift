@@ -92,9 +92,10 @@ background-color: white;
     width: 2vw;
     height: 1vw;
   }
-.arrow-icon{
-  height: 20vw;
+ .faq-question .arrow-icon{
+  height: 2vw;
   width: 4vw;
+  margin-top: 0.3em;
 }
 
 
