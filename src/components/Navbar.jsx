@@ -22,6 +22,13 @@ const Navbar = () => {
 
         <button className='start' >Start Now</button>
       </div>
+            <div className='links'>
+        {links.map((link, index) => {
+          return <a key={index} href="">{link}</a>
+        })}
+
+        <button className='start' >Start Now</button>
+      </div>
     </div>
   )
 }

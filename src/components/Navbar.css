@@ -23,7 +23,7 @@
 }
 
 .links {
-  display: flex !important;
+  display: flex ;
   align-items: center;
   gap: 2vw;
   position: relative;
@@ -95,8 +95,7 @@
     width: 50vw;
     height: 100vh;
     z-index: 4;
-    display: none !important;
-    /* display: block; */
+    display: none;
   }
 
   .links a {
