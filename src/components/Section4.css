@@ -82,10 +82,11 @@
 
 @media (max-width: 480px) {
   .section4{
-    margin-top: 3vw;
+    margin-top: 6vw;
   }
   .section4 h1 {
     font-size: 2.5rem;
+    padding: 0.5em 0;
   }
 
   .left-arrow,
@@ -105,6 +106,7 @@
 
   .box p {
     font-size: 1.2em;
+    line-height: normal ;
   }
 
   .detail {

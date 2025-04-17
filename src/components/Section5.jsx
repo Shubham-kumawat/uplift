@@ -6,7 +6,7 @@ function Section5() {
       <h1>Your favourite tools</h1>
       <p>
         In risus nec molestie at in divulvinar tellus. At integer id condimentum
-        gravida nisi nisl. Sem vitae <br /> divorttitor arcu congue sem erat et
+        gravida nisi nisl. Sem vitae divorttitor arcu congue sem erat et
         sit faucibus. Sollicitudin elit gravida tellus mattis divorttitor.
       </p>
       <div className="card-box">

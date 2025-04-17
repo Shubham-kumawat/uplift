@@ -73,25 +73,19 @@ background-color: white;
   }
 
   .faq-container {
-    margin: 2em;
+    margin: 0.5em;
   }
 
   .faq-question {
     font-size: 1em;
-    padding: 2em;
-    height: auto;
+    height:auto;
     flex-direction: row;
     gap: 1em;
   }
 
-  .faq-question span {
-    font-size: 1.2em;
-  }
 
-  .faq-item img{
-    width: 2vw;
-    height: 1vw;
-  }
+
+ 
  .faq-question .arrow-icon{
   height: 2vw;
   width: 4vw;

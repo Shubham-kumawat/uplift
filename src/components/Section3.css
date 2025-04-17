@@ -106,7 +106,7 @@
 
   .upper p {
     font-size: 1.2rem;
-  
+  line-height: 1.2em;
   }
 
   .container{
@@ -145,13 +145,13 @@ height: 13vw;
   padding:0.1em 0.2em;
   position: absolute;
   border: 2px solid black;
-  width: 22vw;
-  height: 6vw;
+  width: auto;
+  height: auto;
   background: white;
   border: none;
   border-radius: 0.3em;
   top: 3vw;
-  font-size: 1.2em;
+  font-size: 0.8em;
 
 }
 }
