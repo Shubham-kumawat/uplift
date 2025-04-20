@@ -64,7 +64,7 @@ function Section3() {
           </div>
         </div>
         <button className="arroww right-arow">
-          <img className="postImg"  src="../../images/arrow-right-s-line.png" alt="" />
+          <img  src="../../images/arrow-right-s-line.png" alt="" />
         </button>
       </div>
     </div>

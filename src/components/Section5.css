@@ -53,6 +53,57 @@
     
 }
 
+@media (min-width:768px)and (max-width:1024px){
+
+.section5{
+   text-align: center;
+  padding: 3em;
+}
+
+.section5 h1{
+    font-size: 3rem;
+    color: #b620e0;
+
+}
+
+.section5 p{
+    font-size: 1.2rem;
+    margin-bottom: 2em;
+    line-height: 1.6em;
+}
+
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3em;
+    justify-content: center;
+}
+
+.crd{
+    width: 25%;
+    margin-top:0.5em;
+    text-align: start;
+}
+
+.crd img{
+    height: 3.8vw;
+    width:3.8vw;
+    margin-bottom: 1em;
+ 
+}
+
+.crd-title{
+    font-size:1.2rem;
+    font-weight: 600;
+}
+
+.crd-text{
+    font-size: 1rem;
+    line-height: 1.2em;
+    
+}
+}
+
 
 @media screen and (max-width: 480px) {
   .section5 {
